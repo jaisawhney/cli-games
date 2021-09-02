@@ -1,0 +1,204 @@
+{
+  "cards": [
+    {
+      "q": "What is the capital of Alabama?",
+      "a": "Montgomery"
+    },
+    {
+      "q": "What is the capital of Alaska?",
+      "a": "Juneau"
+    },
+    {
+      "q": "What is the capital of Arizona?",
+      "a": "Phoenix"
+    },
+    {
+      "q": "What is the capital of Arkansas?",
+      "a": "Little Rock"
+    },
+    {
+      "q": "What is the capital of California?",
+      "a": "Sacramento"
+    },
+    {
+      "q": "What is the capital of Colorado?",
+      "a": "Denver"
+    },
+    {
+      "q": "What is the capital of Connecticut?",
+      "a": "Hartford"
+    },
+    {
+      "q": "What is the capital of Delaware?",
+      "a": "Dover"
+    },
+    {
+      "q": "What is the capital of Florida?",
+      "a": "Tallahassee"
+    },
+    {
+      "q": "What is the capital of Georgia?",
+      "a": "Atlanta"
+    },
+    {
+      "q": "What is the capital of Hawaii?",
+      "a": "Honolulu"
+    },
+    {
+      "q": "What is the capital of Idaho?",
+      "a": "Boise"
+    },
+    {
+      "q": "What is the capital of Illinois?",
+      "a": "Springfield"
+    },
+    {
+      "q": "What is the capital of Indiana?",
+      "a": "Indianapolis"
+    },
+    {
+      "q": "What is the capital of Iowa?",
+      "a": "Des Moines"
+    },
+    {
+      "q": "What is the capital of Kansas?",
+      "a": "Topeka"
+    },
+    {
+      "q": "What is the capital of Kentucky?",
+      "a": "Frankfort"
+    },
+    {
+      "q": "What is the capital of Louisiana?",
+      "a": "Baton Rouge"
+    },
+    {
+      "q": "What is the capital of Maine?",
+      "a": "Augusta"
+    },
+    {
+      "q": "What is the capital of Maryland?",
+      "a": "Annapolis"
+    },
+    {
+      "q": "What is the capital of Massachusetts?",
+      "a": "Boston"
+    },
+    {
+      "q": "What is the capital of Michigan?",
+      "a": "Lansing"
+    },
+    {
+      "q": "What is the capital of Minnesota?",
+      "a": "Saint Paul"
+    },
+    {
+      "q": "What is the capital of Mississippi?",
+      "a": "Jackson"
+    },
+    {
+      "q": "What is the capital of Missouri?",
+      "a": "Jefferson City"
+    },
+    {
+      "q": "What is the capital of Montana?",
+      "a": "Helana"
+    },
+    {
+      "q": "What is the capital of Nebraska?",
+      "a": "Lincoln"
+    },
+    {
+      "q": "What is the capital of Nevada?",
+      "a": "Carson City"
+    },
+    {
+      "q": "What is the capital of New Hampshire?",
+      "a": "Concord"
+    },
+    {
+      "q": "What is the capital of New Jersey?",
+      "a": "Trenton"
+    },
+    {
+      "q": "What is the capital of New Mexico?",
+      "a": "Santa Fe"
+    },
+    {
+      "q": "What is the capital of New York?",
+      "a": "Albany"
+    },
+    {
+      "q": "What is the capital of North Carolina?",
+      "a": "Raleigh"
+    },
+    {
+      "q": "What is the capital of North Dakota?",
+      "a": "Bismarck"
+    },
+    {
+      "q": "What is the capital of Ohio?",
+      "a": "Columbus"
+    },
+    {
+      "q": "What is the capital of Oklahoma?",
+      "a": "Oklahoma City"
+    },
+    {
+      "q": "What is the capital of Oregon?",
+      "a": "Salem"
+    },
+    {
+      "q": "What is the capital of Pennsylvania?",
+      "a": "Harrisburg"
+    },
+    {
+      "q": "What is the capital of Rhode Island?",
+      "a": "Providence"
+    },
+    {
+      "q": "What is the capital of South Carolina?",
+      "a": "Columbia"
+    },
+    {
+      "q": "What is the capital of South Dakota?",
+      "a": "Pierre"
+    },
+    {
+      "q": "What is the capital of Tennessee?",
+      "a": "Nashville"
+    },
+    {
+      "q": "What is the capital of Texas?",
+      "a": "Austin"
+    },
+    {
+      "q": "What is the capital of Utah?",
+      "a": "Salt Lake City"
+    },
+    {
+      "q": "What is the capital of Vermont?",
+      "a": "Montpelier"
+    },
+    {
+      "q": "What is the capital of Virginia?",
+      "a": "Richmond"
+    },
+    {
+      "q": "What is the capital of Washington?",
+      "a": "Olympia"
+    },
+    {
+      "q": "What is the capital of West Virginia?",
+      "a": "Charleston"
+    },
+    {
+      "q": "What is the capital of Wisconsin?",
+      "a": "Madison"
+    },
+    {
+      "q": "What is the capital of Wyoming?",
+      "a": "Cheyenne"
+    }
+  ]
+}
